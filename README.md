@@ -4,7 +4,7 @@
 
 Hello welcome to my page. My name is Umut, I am from Turkey, I am a backend developer. I love my job and I trust my experience. You can find everything about me here, please have a look : )
 
-Skills:   .Net / C# / SQL / C / C++ / PYHTON / JS / HTML / CSS / spring / Kali Linux
+Skills:   .Net / C# / SQL / C / C++ / PYHTON / JS / HTML / CSS / spring / Kali Linux / Java
 
 - 🔭 I’m currently working on my dreams :)  
 
