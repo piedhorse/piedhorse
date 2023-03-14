@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, my name is umut</h1>
-<h3 align="center">I am Backend Developer </h3>
+<h3 align="center">I called myself a Backend Developer but as hobies I'm trying to learn another languages or technologies. I'm mostly using C# in my paid job and for my personal projects. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piedhorse&label=Profile%20views&color=0e75b6&style=flat" alt="piedhorse" /> </p>
 
