@@ -18,7 +18,7 @@
 </p>
 
 
-<div style="background-color:red">
+<div style="background-color:white">
 
 
 <h3 align="left">Languages and Tools:</h3>
