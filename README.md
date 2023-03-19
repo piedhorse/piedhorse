@@ -1,8 +1,7 @@
 <h1 align="center">Hi there 👋, my name is umut</h1>
 <h3 align="center">I called myself a Backend Developer but as hobies I'm trying to learn another languages or technologies. I'm mostly using C# in my paid job and for my personal projects. </h3>
 - 📫 How to reach me **umutalacatli@icloud.com**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Connect with me:</h3><p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/umut-alacatlı-b760921b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/umut-alacatlı-b760921b4/" height="30" width="40" /></a>
 <a href="https://instagram.com/hopezzz.code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hopezzz.code" height="30" width="40" /></a>
 <a href="https://medium.com/@umutalacatli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@umutalacatli" height="30" width="40" /></a>
