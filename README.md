@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, my name is umut</h1>
+<h6 align="center">Hi there 👋, my name is umut</h6>
 <h3 align="center">I called myself a Backend Developer but as hobies I'm trying to learn another languages or technologies. I'm mostly using C# in my paid job and for my personal projects. </h3>
 - 📫 How to reach me umutalacatli@icloud.com
 <p align="left">
