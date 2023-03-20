@@ -1,6 +1,5 @@
  <h5 align="Center">How to reach me umutalacatli@icloud.com </h5>
 <p align="Center" >
-
 <a href="https://linkedin.com/in/www.linkedin.com/in/umut-alacatlı-b760921b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/umut-alacatlı-b760921b4/" height="25" width="25" /></a>
 <a href="https://instagram.com/hopezzz.code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hopezzz.code" height="25" width="25" /></a>
 <a href="https://medium.com/@umutalacatli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@umutalacatli" height="25" width="25" /></a>
