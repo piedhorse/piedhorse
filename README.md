@@ -6,7 +6,7 @@
   <a href="https://stackoverflow.com/users/18772623" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18772623" height="15" width="15" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://discord.gg/hopezzz.code#7285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hopezzz.code#7285" height="15" width="15" /></a>
 </p>
-![capture_20230302014625866](https://user-images.githubusercontent.com/96746943/226393151-4dbfd3bb-3550-49bd-8e94-e7ec62290ddb.jpg)
+<img src="https://user-images.githubusercontent.com/96746943/226393151-4dbfd3bb-3550-49bd-8e94-e7ec62290ddb.jpg"/>
 
 
 <h5 align="center">I called myself a Backend Developer but as hobies I'm trying to learn another languages or technologies. I'm mostly using C# in my paid job and for my personal projects. </h5>
