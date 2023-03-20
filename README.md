@@ -1,5 +1,6 @@
 <h4 align="center">Hi there 👋, my name is umut</h4>
 <h5 align="center">I called myself a Backend Developer but as hobies I'm trying to learn another languages or technologies. I'm mostly using C# in my paid job and for my personal projects. </h5>
+---
 [![](https://visitcount.itsvg.in/api?id=piedhorse&icon=0&color=0)](https://visitcount.itsvg.in)
 
  How to reach me umutalacatli@icloud.com
