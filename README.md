@@ -8,8 +8,8 @@
 </p>-->
 
 <p align="center">
- <img  src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2021/09/dotnet-bot_jetpack-faceing-right.png" width="50" height="50"/>
-<img  src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2022/10/dotnet-bot_lifting.png" width="50" height="50"/>
+ <img  src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2021/09/dotnet-bot_jetpack-faceing-right.png" width="80" height="80"/>
+<img  src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2022/10/dotnet-bot_lifting.png" width="80" height="80"/>
 </p>
 
 <h5 align="center">I called myself a Backend Developer but as hobies I'm trying to learn another languages or technologies. I'm mostly using C# in my paid job and for my personal projects. </h5>
