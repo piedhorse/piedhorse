@@ -12,6 +12,9 @@
 <h5 align="center">I am a Backend Developer by profession, but I enjoy learning new languages and technologies in my spare time. I primarily use C# in my paid job and for my personal projects.</h5>
 
 <p align="center">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  </a>
   <img src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2021/09/dotnet-bot_jetpack-faceing-right.png" width="80" height="80"/>
   <img src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2022/10/dotnet-bot_lifting.png" width="80" height="80"/>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -52,6 +55,7 @@
 <p align="center">
   I enjoy experimenting with various programming languages and technologies in my free time. I'm always eager to learn and grow my skill set.
 </p>
+
 
 </div>
 <!--<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="25" height="25"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="25" height="25"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="25" height="25"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="25" height="25"/> </a> &nbsp;&nbsp;&nbsp;<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="25" height="25"/> </a>&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="25" height="25"/> </a>&nbsp;&nbsp;&nbsp;
